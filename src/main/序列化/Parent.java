@@ -4,7 +4,6 @@ import java.io.Serializable;
 
 public class Parent implements Serializable {
     private static final long serialVersionUID = -4963266899668807475L;
-    public int parentValue=100;
 
-
+    private int parentValue=100;
 }
